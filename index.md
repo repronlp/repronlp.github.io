@@ -38,15 +38,15 @@ We have selected the papers listed below for inclusion in ReproNLP Track A (thes
 
 The papers and studies, with many thanks to the authors for supporting ReproGen, are:
 
-**van der Lee et al. (2017)**: PASS: A Dutch data-to-text system for soccer, targeted towards specific audiences: https://www.aclweb.org/anthology/W17-3513.pdf [1 evaluation study; Dutch; 20 evaluators; 1 quality criterion; reproduction target: primary scores]
+**van der Lee et al. (2017)**: PASS: A Dutch data-to-text system for soccer, targeted towards specific audiences: <https://www.aclweb.org/anthology/W17-3513.pdf> [1 evaluation study; Dutch; 20 evaluators; 1 quality criterion; reproduction target: primary scores]
 
-**Dušek et al. (2018)**: Findings of the E2E NLG Challenge: https://www.aclweb.org/anthology/W18-6539.pdf [1 human evaluation study; English; MTurk; 2 quality criteria; reproduction target: primary scores]
+**Dušek et al. (2018)**: Findings of the E2E NLG Challenge: <https://www.aclweb.org/anthology/W18-6539.pdf> [1 human evaluation study; English; MTurk; 2 quality criteria; reproduction target: primary scores]
 
-**Qader et al. (2018)**: Generation of Company descriptions using concept-to-text and text-to-text deep models: dataset collection and systems evaluation: https://www.aclweb.org/anthology/W18-6532.pdf [1 human evaluation study; English; 19 evaluators; 4 quality criteria; reproduction target: primary scores]
+**Qader et al. (2018)**: Generation of Company descriptions using concept-to-text and text-to-text deep models: dataset collection and systems evaluation: <https://www.aclweb.org/anthology/W18-6532.pdf> [1 human evaluation study; English; 19 evaluators; 4 quality criteria; reproduction target: primary scores]
 
-**Santhanam & Shaikh (2019)**: Towards Best Experiment Design for Evaluating Dialogue System Output: https://www.aclweb.org/anthology/W19-8610.pdf [3 evaluation studies differing in experimental design; English; 40 evaluators; 2 quality criteria; reproduction target: correlation scores between 3 studies]
+**Santhanam & Shaikh (2019)**: Towards Best Experiment Design for Evaluating Dialogue System Output: <https://www.aclweb.org/anthology/W19-8610.pdf> [3 evaluation studies differing in experimental design; English; 40 evaluators; 2 quality criteria; reproduction target: correlation scores between 3 studies]
 
-**Nisioi et al. (2017)**: Exploring Neural Text Simplification Models: https://aclanthology.org/P17-2014.pdf [one automatic evaluation study; reproduction target: two automatic scores]; [one human evaluation study; 70 sentences; 9 system outputs; 4 quality criteria; reproduction target: primary scores]
+**Nisioi et al. (2017)**: Exploring Neural Text Simplification Models: <https://aclanthology.org/P17-2014.pdf> [one automatic evaluation study; reproduction target: two automatic scores]; [one human evaluation study; 70 sentences; 9 system outputs; 4 quality criteria; reproduction target: primary scores]
 
 ## Track C Papers
 
@@ -54,19 +54,19 @@ The specific experiments listed and described below are currently the subject of
 
 The papers and studies, with many thanks to the authors for supporting ReproHum and ReproNLP, are:
 
-**Vamvas & Sennrich (2022)**:  As Little as Possible, as Much as Necessary: Detecting Over and Undertranslations with Contrastive Conditioning:  https://aclanthology.org/2022.acl-short.53.pdf [1 human evalution study (of 2 in paper); English to German; 2 evaluators; 1 quality criteria; 1 system; approx. 800 outputs; reproduction target:  primary scores]
+**Vamvas & Sennrich (2022)**:  As Little as Possible, as Much as Necessary: Detecting Over and Undertranslations with Contrastive Conditioning:  <https://aclanthology.org/2022.acl-short.53.pdf> [1 human evalution study (of 2 in paper); English to German; 2 evaluators; 1 quality criteria; 1 system; approx. 800 outputs; reproduction target:  primary scores]
 
-**Lin et al. (2022)**:  Other Roles Matter! Enhancing Role-Oriented Dialogue Summarization via Role Interactions:  https://aclanthology.org/2022.acl-long.182.pdf [1 human evaluation study; Chinese; 3 evaluators; 3 quality criteria; 200 outputs per system; 4 systems; reproduction target: primary scores]
+**Lin et al. (2022)**:  Other Roles Matter! Enhancing Role-Oriented Dialogue Summarization via Role Interactions:  <https://aclanthology.org/2022.acl-long.182.pdf> [1 human evaluation study; Chinese; 3 evaluators; 3 quality criteria; 200 outputs per system; 4 systems; reproduction target: primary scores]
 
-**Lux & Vu (2022)**:  Language-Agnostic Meta-Learning for Low-Resource Text-to-Speech with Articulatory Features:  https://aclanthology.org/2022.acl-long.472.pdf  [1 human evaluation; German; Student evaluators (34 responses); 1 quality criterion; 12 outputs per system; 2 systems; reproduction target:  primary scores]
+**Lux & Vu (2022)**:  Language-Agnostic Meta-Learning for Low-Resource Text-to-Speech with Articulatory Features:  <https://aclanthology.org/2022.acl-long.472.pdf>  [1 human evaluation; German; Student evaluators (34 responses); 1 quality criterion; 12 outputs per system; 2 systems; reproduction target:  primary scores]
 
-**Chakrabarty et al. (2022)**:  It's not Rocket Science: Interpreting Figurative Language in Narratives:  https://aclanthology.org/2022.tacl-1.34.pdf  [2 human evaluation studies (of 4 in paper);  English;  MTurk; 1 quality criterion; 25 outputs per system, 5/8 systems (varies between idiom and simile studies); reproduction target:  primary scores]
+**Chakrabarty et al. (2022)**:  It's not Rocket Science: Interpreting Figurative Language in Narratives:  <https://aclanthology.org/2022.tacl-1.34.pdf>  [2 human evaluation studies (of 4 in paper);  English;  MTurk; 1 quality criterion; 25 outputs per system, 5/8 systems (varies between idiom and simile studies); reproduction target:  primary scores]
 
-**Puduppully & Lapata (2021)**:  Data-to-text Generation with Macro Planning:  https://aclanthology.org/2021.tacl-1.31.pdf  [first human evaluation (relative); English; MTurk; 2 quality criteria; 20 outputs per system; 5 systems, reproduction target: primary scores] [second human evaluation (absolute); English; MTurk; 3 quality criteria; 80 outputs per system; 5 systems; reproduction target: primary scores]
+**Puduppully & Lapata (2021)**:  Data-to-text Generation with Macro Planning:  <https://aclanthology.org/2021.tacl-1.31.pdf>  [first human evaluation (relative); English; MTurk; 2 quality criteria; 20 outputs per system; 5 systems, reproduction target: primary scores] [second human evaluation (absolute); English; MTurk; 3 quality criteria; 80 outputs per system; 5 systems; reproduction target: primary scores]
 
 ## Track A, B and C Instructions
 
-Step 1. Fill in the registration form at https://forms.gle/dnf73tH3jcyBEBCX6, indicating which of the above papers, or which of your own papers, you wish to carry out a reproduction study for.
+Step 1. Fill in the registration form at <https://forms.gle/dnf73tH3jcyBEBCX6>, indicating which of the above papers, or which of your own papers, you wish to carry out a reproduction study for.
 
 Step 2. After registration, the ReproNLP participants information will be made available to you, plus data, tools and other materials for each of the studies you have selected in the registration form.
 
@@ -109,4 +109,4 @@ Ehud Reiter, University of Aberdeen, UK
 
 anya.belz@adaptcentre.ie, c.thomson@abdn.ac.uk 
 
-https://repronlp.github.io
+<https://repronlp.github.io>
