@@ -10,7 +10,9 @@ header:
   overlay_image: /assets/images/reprohum_banner_orig.jpg
 ---
 
-# ReproNLP 2023: First Call for Participation
+# ReproNLP 2023
+
+# First Call for Participation
 
 ## Background
 
