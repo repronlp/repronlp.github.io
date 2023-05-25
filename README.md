@@ -1,2 +1,2 @@
-# reprohum.github.io
-Repository for website https://reprohum.github.io
+# repronlp.github.io
+Repository for website https://repronlp.github.io
