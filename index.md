@@ -70,7 +70,7 @@ Step 1. Fill in the registration form at <https://forms.gle/dnf73tH3jcyBEBCX6>, 
 
 Step 2. After registration, the ReproNLP participants information will be made available to you, plus data, tools and other materials for each of the studies you have selected in the registration form.
 
-Step 3. Carry out the reproduction, and submit a report of up to 8 pages plus references and supplementary material including a completed ReproGen Human Evaluation Sheet (HEDS) for each reproduction study, by 6 June 2022.
+Step 3. Carry out the reproduction, and submit a report of up to 8 pages plus references and supplementary material including a completed ReproGen Human Evaluation Sheet (HEDS) for each reproduction study, by 4 August 2023.
 
 Step 4. The organisers will carry out light touch review of the evaluation reports according to the following criteria:
 
