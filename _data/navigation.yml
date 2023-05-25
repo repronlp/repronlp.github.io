@@ -1,9 +1,5 @@
 main:
-  - title: "Survey"
-    url: /survey/
-  - title: "Project Team"
-    url: /contact/
-  - title: "Publications"
-    url: /publications/
-  - title: "Information for authors"
-    url: /information_for_authors/
+  - title: "ReproGen 2022"
+    url: https://reprogen.github.io/
+  - title: "ReproGen 2021"
+    url: https://reprogen.github.io/2021/
