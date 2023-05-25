@@ -26,11 +26,11 @@ As with the ReproGen shared tasks, our overall aim is (i) to shed light on the e
 
 ReproNLP has three tracks, one an ‘unshared task’ in which teams attempt to reproduce their own prior evaluation results (Track B below), the others standard shared tasks in which teams repeat existing evaluation studies with the aim of reproducing their results (Tracks A and C):
 
-A. Legacy Reproducibility Track: For a shared set of selected evaluation studies from ReproGen 2022 (see below), participants repeat one or more of the studies, and attempt to reproduce their results. As in ReproGen, participants will be given additional information and resources (beyond what is in the published papers) about experimental details by the ReproNLP organisers.
+**A. Legacy Reproducibility Track** (papers see below): For a shared set of selected evaluation studies from ReproGen 2022 (see below), participants repeat one or more of the studies, and attempt to reproduce their results. As in ReproGen, participants will be given additional information and resources (beyond what is in the published papers) about experimental details by the ReproNLP organisers.
 
-B. RYO Track: Reproduce Your Own previous evaluation results, and report what happened. Unshared task.
+**B. RYO Track**: Reproduce Your Own previous evaluation results, and report what happened. Unshared task.
 
-C. ReproHum Track: For a shared set of selected evaluation studies from the ReproHum Project, participants repeat one or more of the studies, and attempt to reproduce their results, using information provided by the ReproNLP organisers only, and following a common reproduction approach.
+**C. ReproHum Track** (papers see below): For a shared set of selected evaluation studies from the ReproHum Project, participants repeat one or more of the studies, and attempt to reproduce their results, using information provided by the ReproNLP organisers only, and following a common reproduction approach.
 
 ## Track A Papers
 
