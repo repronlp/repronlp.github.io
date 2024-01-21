@@ -16,7 +16,7 @@ header:
 
 ## Background
 
-Across Natural Language Processing (NLP), a growing body of work is exploring the issue of reproducibility in machine learning contexts. The field is currently far from having a generally agreed tool box of methods for defining and assessing reproducibility. Reproducibility of results of human evaluation experiments is particularly under-addressed which is of concern for areas of NLP where human evaluation is common including e.g. MT, text generation and summarisation. More generally, human evaluations provide the benchmarks against which automatic evaluation methods are assessed across NLP.
+Across Natural Language Processing (NLP), a growing body of work is exploring the issue of reproducibility in machine learning contexts. The field is currently far from having a generally agreed toolbox of methods for defining and assessing reproducibility. Reproducibility of results of human evaluation experiments is particularly under-addressed which is of concern for areas of NLP where human evaluation is common including e.g. MT, text generation, and summarisation. More generally, human evaluations provide the benchmarks against which automatic evaluation methods are assessed across NLP.
 
 We previously organised the First ReproGen Shared Task on reproducibility of human evaluations in NLG as part of Generation Challenges (GenChal) at INLG’21, and the Second ReproGen Shared Task at INLG’22, where we extended the scope to encompass automatic evaluation methods as well as human. Last year we expanded the scope of the shared task series to encompass all NLP tasks, renaming it the ReproNLP Shared Task on Reproducibility of Evaluations in NLP (part of the HumEval workshop at RANLP’23). This year we are focussing on human evaluations, and the results session will be held at the 4th Workshop on Human Evaluation of NLP Systems (HumEval’24 at LREC-COLING’24). 
 
@@ -24,7 +24,7 @@ As with the previous shared tasks, our overall aim is (i) to shed light on the e
 
 ## About ReproNLP
 
-ReproNLP has two tracks, one an ‘unshared task’ in which teams attempt to reproduce any prior evaluation results (Track B below), the other a standard shared tasks in which teams repeat existing evaluation studies with the aim of reproducing their results (Track A):
+ReproNLP has two tracks, one an ‘unshared task’ in which teams attempt to reproduce any prior evaluation results (Track A below), the other a standard shared task in which teams repeat existing evaluation studies with the aim of reproducing their results (Track B):
 
 **A. Open Track**: Reproduce previous evaluation results from any paper, and report what happened. Unshared task.
 
