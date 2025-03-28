@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/reprohum_banner_orig.jpg
 ---
 
-# ReproNLP 2024
+# ReproNLP 2025
 
 # First Call for Participation
 
@@ -18,9 +18,10 @@ header:
 
 Across Natural Language Processing (NLP), a growing body of work is exploring the issue of reproducibility in machine learning contexts. The field is currently far from having a generally agreed toolbox of methods for defining and assessing reproducibility. Reproducibility of results of human evaluation experiments is particularly under-addressed which is of concern for areas of NLP where human evaluation is common including e.g. MT, text generation, and summarisation. More generally, human evaluations provide the benchmarks against which automatic evaluation methods are assessed across NLP.
 
-We previously organised the First ReproGen Shared Task on reproducibility of human evaluations in NLG as part of Generation Challenges (GenChal) at INLG’21, and the Second ReproGen Shared Task at INLG’22, where we extended the scope to encompass automatic evaluation methods as well as human. Last year we expanded the scope of the shared task series to encompass all NLP tasks, renaming it the ReproNLP Shared Task on Reproducibility of Evaluations in NLP (part of the HumEval workshop at RANLP’23). This year we are focussing on human evaluations, and the results session will be held at the 4th Workshop on Human Evaluation of NLP Systems (HumEval’24 at LREC-COLING’24). 
+We previously organised the First ReproGen Shared Task on reproducibility of human evaluations in NLG as part of Generation Challenges (GenChal) at INLG’21, and the Second ReproGen Shared Task at INLG’22, where we extended the scope to encompass automatic evaluation methods as well as human.  We expanded the scope of the shared task series to encompass all NLP tasks, renaming it the ReproNLP Shared Task on Reproducibility of Evaluations in NLP (part of the HumEval’23 workshop at RANLP’23). Last year, we focused on human evaluations, with the results session held at the 4th Workshop on Human Evaluation of NLP Systems (HumEval’24 at LREC-COLING’24).  This year’s edition of the shared task, ReproNLP’25, will be part of the [GEM Workshop](https://gem-benchmark.com/workshop) at [ACL 2025 in Vienna](https://2025.aclweb.org).
 
-As with the previous shared tasks, our overall aim is (i) to shed light on the extent to which past NLP evaluations have been reproducible, and (ii) to draw conclusions regarding how NLP evaluations can be designed and reported to increase reproducibility. With this task being run over several years, we hope to be able to document an overall increase in levels of reproducibility over time.
+As with the previous shared tasks, in ReproNLP 2025 our overall aim is (i) to shed light on the extent to which past NLP evaluations have been reproducible, and (ii) to draw conclusions regarding how NLP evaluations can be designed and reported in order to increase reproducibility. With the ReproGen/ReproNLP tasks being run over several years, we hope to be able to document an overall increase in levels of reproducibility over time.
+
 
 ## About ReproNLP
 
@@ -33,7 +34,9 @@ ReproNLP has two tracks, one an ‘unshared task’ in which teams attempt to re
 
 ## Track B Papers
 
-The specific experiments listed and described below are currently the subject of reproduction studies in the [ReproHum](https://reprohum.github.io/) project. The authors have provided very detailed information about the experiments. In some cases, we have introduced standardisations to the experimental design as noted in the detailed instructions to participants which will be shared upon registration. 
+The specific experiments listed and described below are currently the subject of reproduction studies in the [ReproHum](https://reprohum.github.io/) project. The authors have provided very detailed information about the experiments. In some cases, we have introduced standardisations to the experimental design as noted in the detailed instructions to participants which will be shared upon registration.
+
+There is no requirement to reproduce an entire paper, the minimum is one quality criterion, for one dataset.  Some combinations of dataset / quality criterion are being reproduced as part of the ReproHum project [https://reprohum.github.io](https://reprohum.github.io), if you wish to align with those we can advise you of what they are when you register.
 
 The papers and studies, with many thanks to the authors for supporting ReproHum and ReproNLP, are:
 
@@ -58,8 +61,6 @@ The papers and studies, with many thanks to the authors for supporting ReproHum 
 **Liu et al. (2021)**:  DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts:  [https://aclanthology.org/2021.acl-long.522](https://aclanthology.org/2021.acl-long.522)
 
 * Relative evaluation study; English; 3 quality criteria; 2 datasets; varies between 5 and 6 systems and between 960 and 1200 evaluation items per dataset-criterion combination; crowdsourced.
-
-**Dwiastuti (2019)**:  English-Indonesian Neural Machine Translation for Spoken Language Domains:  [https://aclanthology.org/P19-2043](https://aclanthology.org/P19-2043)
 
 * Relative evaluation study; Indonesian; 1 quality criterion; 1 dataset; 2 systems and 50 evaluation items.
 
@@ -135,11 +136,11 @@ The papers and studies, with many thanks to the authors for supporting ReproHum 
 
 ## Track A and B Instructions
 
-Step 1. Fill in the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSetAzVp3BVkTaf8i0MZuya_sAKuP3ii6zC8wZVOCXTz392cEQ/viewform?usp=sharing), indicating which of the above papers, or which other paper(s), you wish to carry out a reproduction study for.
+Step 1. Fill in the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfNrO4IlZyhxftmWSfy_6sQkXlnx6IGWlisPhmG9NNha3qqUw/viewform?usp=dialog), indicating which of the above papers, or which other paper(s), you wish to carry out a reproduction study for.
 
 Step 2. After registration, the ReproNLP participants information will be made available to you, plus data, tools and other materials for each of the studies you have selected in the registration form.
 
-Step 3. Carry out the reproduction, and submit a report of up to 8 pages plus references and supplementary material including a completed ReproGen Human Evaluation Sheet (HEDS) for each reproduction study, by April 1st 2024.
+Step 3. Carry out the reproduction, and submit a report of up to 8 pages plus references and supplementary material including a completed ReproGen Human Evaluation Sheet (HEDS) for each reproduction study, by May 27th 2025.
 
 Step 4. The organisers will carry out light touch review of the evaluation reports according to the following criteria:
 
@@ -150,17 +151,18 @@ Step 4. The organisers will carry out light touch review of the evaluation repor
 
 Step 5. Present paper at the results meeting.
 
-Reports will be included in the HumEval’24 proceedings, and results will be presented at the workshop in May 2024. Full details and instructions will be provided as part of the ReproNLP participants information.
+Reports will be included in the GEM’25 proceedings, and results will be presented at the workshop (July 31st - August 1st) 2025. Full details and instructions will be provided as part of the ReproNLP participants information.
 
 ## Important Dates
 
-Report submission deadline: 1st of April 2024
+Registration close date: 18 April 2025
 
-Acceptance notification: 9th of April 2024
+Report submission deadline: 16 May 2025
 
-Camera-ready reports due: 19th of April 2024
+Acceptance notification: 27 May 2025
 
-Presentation of results: 21st of May 2024
+Camera-ready reports due: 6 June 2025
+
 
 All deadlines are 23:59 UTC-12.
 
@@ -168,9 +170,10 @@ All deadlines are 23:59 UTC-12.
 
 Anya Belz, ADAPT/DCU, Ireland
 
-Craig Thomson, University of Aberdeen, UK
+Craig Thomson, ADAPT/DCU, Ireland
 
-Ehud Reiter, University of Aberdeen, UK
+Malo Ruelle, École Centrale de Lille, France
+
 
 ## Contact
 
