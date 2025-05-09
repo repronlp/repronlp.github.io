@@ -160,9 +160,11 @@ Registration close date: 02 May 2025
 ~~Report submission deadline: 16 May 2025~~
 Report submission deadline: 23 May 2025
 
-Acceptance notification: 27 May 2025
+~~Acceptance notification: 27 May 2025~~
+Acceptance notification: 3 June 2025
 
-Camera-ready reports due: 6 June 2025
+~~Camera-ready reports due: 6 June 2025~~
+Camera-ready reports due: 12 June 2025
 
 
 All deadlines are 23:59 UTC-12.
