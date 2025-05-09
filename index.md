@@ -157,7 +157,8 @@ Reports will be included in the GEM’25 proceedings, and results will be presen
 
 Registration close date: 02 May 2025
 
-Report submission deadline: 16 May 2025
+~~Report submission deadline: 16 May 2025~~
+Report submission deadline: 23 May 2025
 
 Acceptance notification: 27 May 2025
 
