@@ -140,7 +140,7 @@ Step 1. Fill in the [registration form](https://docs.google.com/forms/d/e/1FAIpQ
 
 Step 2. After registration, the ReproNLP participants information will be made available to you, plus data, tools and other materials for each of the studies you have selected in the registration form.
 
-Step 3. Carry out the reproduction, and submit a report of up to 8 pages plus references and supplementary material including a completed ReproGen Human Evaluation Sheet (HEDS) for each reproduction study, by May 27th 2025.
+Step 3. Carry out the reproduction, and submit a report of up to 8 pages plus references and supplementary material including a completed ReproGen Human Evaluation Sheet (HEDS) for each reproduction study, by May 23rd 2025.
 
 Step 4. The organisers will carry out light touch review of the evaluation reports according to the following criteria:
 
