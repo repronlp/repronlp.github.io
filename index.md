@@ -163,8 +163,11 @@ Acceptance notification: 3 June 2025
 
 Camera-ready reports due: 12 June 2025
 
-
 All deadlines are 23:59 UTC-12.
+
+## Submission Form
+
+Please submit to Open Review for the GEM workshop; [https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/GEM](https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/GEM).  Select the track "ReproNLP".
 
 ## Organisers
 
