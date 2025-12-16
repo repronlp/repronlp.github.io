@@ -178,6 +178,7 @@ Anya Belz, ADAPT/DCU, Ireland
 
 Craig Thomson, ADAPT/DCU, Ireland
 
+Javier González Corbelle, University of Santiago de Compostela, Spain
 
 ## Contact
 
