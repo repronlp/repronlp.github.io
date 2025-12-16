@@ -182,7 +182,7 @@ Javier González Corbelle, University of Santiago de Compostela, Spain
 
 ## Contact
 
-anya.belz@adaptcentre.ie, c.thomson@abdn.ac.uk 
+anya.belz@adaptcentre.ie, craig.thomson@adaptcentre.ie
 
 <https://repronlp.github.io>
 
