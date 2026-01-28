@@ -164,7 +164,7 @@ Acceptance notification: 4 May 2026
 
 Camera-ready reports due: 14 May 2026
 
-GEM Workshop: 2 or 3 July 2026 TBC.
+GEM Workshop: 3 or 4 July 2026 TBC.
 
 All deadlines are 23:59 UTC-12.
 
