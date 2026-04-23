@@ -158,7 +158,8 @@ Reports will be included in the GEM’26 proceedings, and results will be presen
 
 Registration close date: 23 Mar 2026
 
-Report submission deadline: 23 April 2026
+~~Report submission deadline: 23 April 2026~~
+Report submission deadline: 24 April 2026 (extension)
 
 Acceptance notification: 4 May 2026
 
